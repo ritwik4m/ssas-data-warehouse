@@ -1,5 +1,3 @@
-# ssas-data-warehouse
-
 # SSAS BI Cube & Database Design Project
 
 This project was completed as part of my MSc Data Science coursework (COMM051) at the University of Surrey.  
